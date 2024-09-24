@@ -323,6 +323,15 @@ span.option {
   font-family: 'Righteous', cursive;
   /* letter-spacing: 5px; */
 }
+.heading{
+  margin-bottom: 55px;
+  font-size: 50px;
+}
+.developer{
+  font-size: 15px;
+  font-family: "Bangers", system-ui;
+  margin-top: 25px;
+}
 
 @media only screen and (max-width: 1920px) {
   .moneyListItemNumber {
